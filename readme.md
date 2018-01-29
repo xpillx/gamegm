@@ -150,7 +150,6 @@ void delByExpression(ExpressionQuery query);
 1. 下载项目,进入项目根目录,运行mvn eclipse:eclipse,然后导入到eclipse中;
 2. 导入数据(Mysql),运行database_demo.sql即可,数据库连接配置在config.properties中;
 3. 启动tomcat或者输入maven命令mvn jetty:run (默认端口8088),浏览器输入http://localhost:your_port/your_project_name/index.jsp
-4. app.controller.demo包下含有更多例子,请自行体验.
 
 超级管理员用户名:admin 密码:123456
 其它用户密码均为123456
