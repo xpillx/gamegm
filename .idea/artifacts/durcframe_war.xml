@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="durcframe:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="durcframe.war">
+      <element id="artifact" artifact-name="durcframe:war exploded" />
+    </root>
+  </artifact>
+</component>

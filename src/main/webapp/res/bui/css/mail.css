@@ -1,0 +1,64 @@
+.myform {
+    margin: 0 auto;
+    width: 600px;
+    padding: 5px;
+}
+
+#stylized {
+    border: solid 1px #b7ddf2;
+    background: #eef2fd;
+}
+
+#stylized legend {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+}
+
+#stylized label {
+    display: block;
+    font-weight: bold;
+    text-align: right;
+    width: 140px;
+    float: left;
+    font-size: 15px;
+}
+
+#stylized title {
+    display: block;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#stylized .pas {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#stylized input[type=text] {
+    font-size: 15px;
+    height: 20px;
+    width: 300px;
+}
+
+#stylized .sub {
+    clear: both;
+    margin-left: 150px;
+    width: 150px;
+    height: 32px;
+    line-height: 20px;
+    border: 1px solid #b7ddf2;
+    text-align: center;
+    color: #336600;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#stylized p {
+    font-size: 12px;
+    color: #666666;
+    margin-bottom: 3px;
+    border-bottom: solid 1px #b7ddf2;
+    padding-bottom: 3px;
+}
